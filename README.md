@@ -10,7 +10,7 @@ This project dives deep into Walmart's retail transaction data to uncover insigh
 
 ## 🛠️ Tools & Technologies 💻
 
-* **🐍 Languages & Libraries:** Python (Pandas 🐼, NumPy 🔢)
+* **📊 Languages & Libraries:** Python 🐍 (Pandas 🐼, NumPy 🔢)
 * **📊 Visualization:** Seaborn 🎨, Matplotlib 📈
 * **📊 Analysis Tool:** Excel 📊 (Dashboards & Summaries)
 
